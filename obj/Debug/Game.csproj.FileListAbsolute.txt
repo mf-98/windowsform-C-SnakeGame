@@ -1,0 +1,9 @@
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\bin\Debug\Game.exe.config
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\bin\Debug\Game.exe
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\bin\Debug\Game.pdb
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.GameBoard.resources
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.exe
+C:\Users\marye\OneDrive\Documents\SEMESTER4COURSES\co-opappls\Game\obj\Debug\Game.pdb
